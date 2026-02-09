@@ -1,0 +1,14 @@
+C:\Users\32789624\Documents\Dia 1\bin\Debug\net8.0\Dia 1.exe
+C:\Users\32789624\Documents\Dia 1\bin\Debug\net8.0\Dia 1.deps.json
+C:\Users\32789624\Documents\Dia 1\bin\Debug\net8.0\Dia 1.runtimeconfig.json
+C:\Users\32789624\Documents\Dia 1\bin\Debug\net8.0\Dia 1.dll
+C:\Users\32789624\Documents\Dia 1\bin\Debug\net8.0\Dia 1.pdb
+C:\Users\32789624\Documents\Dia 1\obj\Debug\net8.0\Dia 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\32789624\Documents\Dia 1\obj\Debug\net8.0\Dia 1.AssemblyInfoInputs.cache
+C:\Users\32789624\Documents\Dia 1\obj\Debug\net8.0\Dia 1.AssemblyInfo.cs
+C:\Users\32789624\Documents\Dia 1\obj\Debug\net8.0\Dia 1.csproj.CoreCompileInputs.cache
+C:\Users\32789624\Documents\Dia 1\obj\Debug\net8.0\Dia 1.dll
+C:\Users\32789624\Documents\Dia 1\obj\Debug\net8.0\refint\Dia 1.dll
+C:\Users\32789624\Documents\Dia 1\obj\Debug\net8.0\Dia 1.pdb
+C:\Users\32789624\Documents\Dia 1\obj\Debug\net8.0\Dia 1.genruntimeconfig.cache
+C:\Users\32789624\Documents\Dia 1\obj\Debug\net8.0\ref\Dia 1.dll
