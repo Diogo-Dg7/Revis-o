@@ -413,3 +413,95 @@
 // }
 // Console.WriteLine($"O fatorial do numero é {fatorial}");
 
+// //Leia uma senha e permita no máximo 3 tentativas.
+
+// Console.WriteLine("Digite Sua Senha: ");
+// string senha = Console.ReadLine()!;
+
+// int tentativas = 0;
+// bool acessoPermitido = false;
+
+// while (tentativas < 3)
+// {
+//     Console.WriteLine("Digite Sua Senha: ");
+//     string tentativa = Console.ReadLine()!;
+
+//     if (tentativa == senha)
+//     {
+//         acessoPermitido = true;
+//         break;
+//     }
+//     else
+//     {
+//         tentativas++;
+//         Console.WriteLine($"Senha Incorreta! Tentativas restantes: {3 - tentativas}");
+//     }
+// }
+
+// if (acessoPermitido)
+// {
+//     Console.WriteLine("Acesso Permitido!");
+// }
+// else
+// {
+//     Console.WriteLine("Acesso Negado!");
+// }
+
+// //Simule um caixa eletrônico que permite saques enquanto houver saldo.
+
+// double saldo = 1000.00;
+// bool continuar = true;
+
+// while (continuar)
+// {
+//     Console.WriteLine($"Seu saldo é: {saldo}");
+//     Console.WriteLine("Digite o valor do saque (ou 0 para sair): ");
+//     double saque = double.Parse(Console.ReadLine()!);
+
+//     if (saque == 0)
+//     {
+//         continuar = false;
+//     }
+//     else if (saque > saldo)
+//     {
+//         Console.WriteLine("Saldo insuficiente!");
+//     }
+//     else
+//     {
+//         saldo -= saque;
+//         Console.WriteLine($"Saque de {saque} realizado com sucesso!");
+//     }
+// }
+// Console.WriteLine("Obrigado por usar o caixa eletrônico!");
+
+// //Leia uma sequência de números e informe qual foi o maior valor digitado.
+
+// int maiorValor = int.MinValue;
+// bool continuar = true;
+
+// while (continuar)
+// {
+//     Console.WriteLine("Digite um número (ou -1 para sair): ");
+//     int numero = int.Parse(Console.ReadLine()!);
+
+//     if (numero == -1)
+//     {
+//         continuar = false;
+//     }
+//     else
+//     {
+//         if (numero > maiorValor)
+//         {
+//             maiorValor = numero;
+//         }
+//     }
+// }
+
+// if (maiorValor != int.MinValue)
+// {
+//     Console.WriteLine($"O maior valor digitado foi: {maiorValor}");
+// }
+// else
+// {
+//     Console.WriteLine("Nenhum valor válido foi digitado.");
+// }
